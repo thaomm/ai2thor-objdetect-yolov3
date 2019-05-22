@@ -49,6 +49,7 @@ Team members: Man Minh Thao
   + Moving the agent’s view with keyboard, capturing its frames after every move, using YOLO to process the object detector and drawing a bounding box around each object in every frame.
 
 - Controller:
+
   “w” / **move front**
   
   “s” / **move back**
