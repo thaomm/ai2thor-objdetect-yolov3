@@ -35,4 +35,30 @@ Team members: Man Minh Thao
   + How YOLO works:
     ![howYOLOwork](/howYOLOwork.png)
 
+## Project
+
+- Install and run: Run in Ubuntu 14.04+ using terminal
+  ```git
+  $ git clone https://github.com/thaomm/ai2thor-objdetect-yolov3.git
+  $ cd ai2thor-objdetect-yolov3/roboto
+  $ python3 robot.py
+  ```
+  
+- Method: 
+  + Using YOLO to detect and COCO dataset to train the object detector
+  + Moving the agent’s view with keyboard, capturing its frames after every move, using YOLO to process the object detector and drawing a bounding box around each object in every frame.
+
+- Controller:
+  “w” / **move front**
+  “s” / **move back**
+  “a” / **move left**
+  “d” / **move right**
+  “left arrow”  / **rotate left**
+  “right arrow” / **rotate right**
+  “up arrow” / **look up**
+  “down arrow” / **look down**
+  
+  ##Demo
+  ![Demo](/demo.png)
+  
 
