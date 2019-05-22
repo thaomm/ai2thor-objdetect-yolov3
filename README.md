@@ -11,9 +11,13 @@ Team members: Man Minh Thao
   + Functions: 3D views, customizable, photorealistic, physics (forces, friction,..), object interaction and multi-agent.
   + Requirement: 
     *OS: Mac OS X 10.9+, Ubuntu 14.04+
+    
     *Graphics Card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.
+    
     *CPU: SSE2 instruction set support.
+    
     *Python 2.7 or Python 3.5+
+    
     *Linux users: X server with GLX module enabled
   + Installation:
     ```git
