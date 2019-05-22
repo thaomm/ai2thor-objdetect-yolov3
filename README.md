@@ -58,7 +58,8 @@ Team members: Man Minh Thao
   “up arrow” / **look up**
   “down arrow” / **look down**
   
-  ##Demo
+## Demo
+
   ![Demo](/demo.png)
   
 
