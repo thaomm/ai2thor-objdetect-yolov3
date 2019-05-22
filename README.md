@@ -4,11 +4,11 @@ Class: INT3409 21
 
 Team members: 
   
-  + Man Minh Thao
+  + Man Minh Thao - 16020282
   
-  + Chu Minh Tien
+  + Chu Minh Tien - 16020287
   
-  + Nguyen Duy Quang
+  + Nguyen Duy Quang - 16020272
 
 ## Introduction
 
