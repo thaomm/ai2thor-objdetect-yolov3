@@ -1,5 +1,8 @@
 # ai2thor-objdetect-yolov3
-```python
-import ai2thor.controller
-import keyboard
+
+```git
+git clone https://github.com/pjreddie/darknet
+cd darknet
+make
 ```
+
