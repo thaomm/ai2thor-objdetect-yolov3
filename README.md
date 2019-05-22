@@ -50,12 +50,19 @@ Team members: Man Minh Thao
 
 - Controller:
   “w” / **move front**
+  
   “s” / **move back**
+  
   “a” / **move left**
+  
   “d” / **move right**
+  
   “left arrow”  / **rotate left**
+  
   “right arrow” / **rotate right**
+  
   “up arrow” / **look up**
+  
   “down arrow” / **look down**
   
 ## Demo
